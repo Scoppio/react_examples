@@ -2,14 +2,12 @@
 
 # dependencies
 node_modules
-task_withTODO/node_modules
 
 # testing
 coverage
 
 # production
 build
-task_withTODO/node_modules
 
 # misc
 .DS_Store
